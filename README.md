@@ -98,8 +98,7 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 
 ## Formação acadêmica
 
-**Estácio Parangaba**  
-Bacharelado em Ciência da Computação  
+**Bacharelado em Ciência da Computação**  
 Fortaleza, CE  
 2025 — Atual
 
