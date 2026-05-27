@@ -11,7 +11,7 @@ Atualmente estou estudando e desenvolvendo projetos com Python, bancos de dados,
 ### Linguagens de programação
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-
+![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Desenvolvimento web
 
