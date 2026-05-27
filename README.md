@@ -76,41 +76,11 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 
 ---
 
-## Linguagens mais usadas
+## Linguagens e foco técnico
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmel&layout=donut&theme=tokyonight&hide_border=true)
-
----
-
-## Áreas de interesse
-
-- Desenvolvimento backend
-- Engenharia de dados
-- Análise de dados
-- Banco de dados
-- Automação com Python
-- Cibersegurança
-
----
-
-## Formação acadêmica
-
-**Estácio Parangaba**  
-Bacharelado em Ciência da Computação  
-Fortaleza, CE  
-2025 — Atual
-
----
-
-## Idiomas
-
-- Português: Nativo
-- Inglês: Avançado — C1
-
----
-
-## Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mendes-dos-santos-3172892b7)
-
-[![GitHub](https://img.shields.io/badge/GitHub-samuelmel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmel)
+```mermaid
+pie title Linguagens e foco técnico
+    "Python" : 45
+    "SQL" : 30
+    "C#" : 15
+    "Outros" : 10
