@@ -6,7 +6,7 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 
 ---
 
-## Tecnologias e conhecimentos
+## Tecnologias e ferramentas
 
 ### Programação
 
@@ -14,15 +14,16 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
+### Dados e análise
 
-### Dados
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 
 - ETL/ELT
-- pandas
 - Análise de dados
 - Organização de datasets
 - KPIs
 - Manipulação de dados
+- Transformação de dados
 
 ### Banco de dados
 
@@ -30,6 +31,13 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
+- Modelagem relacional
+- Consultas SQL
+- JOINs
+- GROUP BY
+- Filtros
+- Agregações
+- Consultas relacionais
 
 ### Backend e aplicações
 
@@ -37,26 +45,57 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-
 ### Automação e integração
+
+![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup-59666C?style=for-the-badge&logo=python&logoColor=white)
+![API](https://img.shields.io/badge/APIs-005571?style=for-the-badge&logo=fastapi&logoColor=white)
+![Telegram Bot](https://img.shields.io/badge/Telegram%20Bot%20API-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)
 
 - Web scraping
 - BeautifulSoup4
 - Consumo de APIs
 - Telegram Bot API
 
-### Ferramentas
+### Ferramentas e ambiente
 
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### Noções
+
+![Apache Airflow](https://img.shields.io/badge/Apache%20Airflow-017CEE?style=for-the-badge&logo=apacheairflow&logoColor=white)
+![Markdown](https://img.shields.io/badge/Documentação%20Técnica-000000?style=for-the-badge&logo=markdown&logoColor=white)
+
+- Documentação técnica
+- Controle de inconsistências
+- Versionamento de código
+
+---
+
+## Linguagens mais usadas
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=samuelmel&layout=donut&theme=tokyonight&hide_border=true)
+
+---
+
+## Áreas de interesse
+
+- Desenvolvimento backend
+- Engenharia de dados
+- Análise de dados
+- Banco de dados
+- Automação com Python
+- Cibersegurança
 
 ---
 
 ## Formação acadêmica
 
+**Estácio Parangaba**  
 Bacharelado em Ciência da Computação  
 Fortaleza, CE  
 2025 — Atual
