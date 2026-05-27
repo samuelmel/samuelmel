@@ -57,8 +57,16 @@ Inglês avançado — C1
 
 ---
 
-## Contato
+## Redes sociais
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mendes-dos-santos-3172892b7)
+<a href="https://www.linkedin.com/in/samuel-mendes-dos-santos-3172892b7" target="_blank">
+  <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank">
+</a>
 
-[![Email](https://img.shields.io/badge/Email-samuelmsantos021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelmsantos021@gmail.com)
+<a href="mailto:samuca21santos@gmail.com">
+  <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
+</a>
+
+<a href="https://github.com/samuelmel" target="_blank">
+  <img src="https://img.shields.io/badge/-GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white" target="_blank">
+</a>
