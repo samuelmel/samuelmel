@@ -14,9 +14,6 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
-- Python
-- SQL
-- C#
 
 ### Dados
 
@@ -33,20 +30,6 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 
-- SQLite
-- PostgreSQL
-- MySQL
-- Modelagem relacional
-- Consultas SQL
-
-### SQL
-
-- JOINs
-- GROUP BY
-- Filtros
-- Agregações
-- Consultas relacionais
-- Transformação de dados
 
 ### Backend e aplicações
 
@@ -54,9 +37,6 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-- Flask
-- Django
-- Streamlit
 
 ### Automação e integração
 
@@ -72,31 +52,6 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![Windows](https://img.shields.io/badge/Windows-0078D4?style=for-the-badge&logo=windows&logoColor=white)
-
-- Git
-- GitHub
-- Docker
-- Docker Compose
-- Linux
-- Windows
-
-### Noções
-
-- Apache Airflow
-- Documentação técnica
-- Controle de inconsistências
-- Versionamento de código
-
----
-
-## Áreas de interesse
-
-- Desenvolvimento backend
-- Engenharia de dados
-- Análise de dados
-- Banco de dados
-- Automação com Python
-- Cibersegurança
 
 ---
 
