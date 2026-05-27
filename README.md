@@ -61,4 +61,4 @@ Inglês avançado — C1
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mendes-dos-santos-3172892b7)
 
-[![Email](https://img.shields.io/badge/Email-samuca21santos%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuca21santos@gmail.com)
+[![Email](https://img.shields.io/badge/Email-samuelmsantos021%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:samuelmsantos021@gmail.com)
