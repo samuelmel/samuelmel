@@ -18,6 +18,13 @@ Estudante de Ciência da Computação com foco em **backend, dados, automação,
 ![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
+### Bibliotecas
+
+![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
+![BeautifulSoup4](https://img.shields.io/badge/BeautifulSoup4-59666C?style=for-the-badge&logo=python&logoColor=white)
+
 ### Databases
 
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
@@ -28,10 +35,10 @@ Estudante de Ciência da Computação com foco em **backend, dados, automação,
 
 ## Conhecimentos
 
-**Dados:** ETL/ELT, pandas, análise de dados, organização de datasets, KPIs e manipulação de dados.  
+**Dados:** ETL/ELT, pandas, análise de dados, organização de datasets, KPIs, manipulação e visualização de dados.  
 **SQL:** JOINs, GROUP BY, filtros, agregações, consultas relacionais e transformação de dados.  
-**Automação:** web scraping, BeautifulSoup4, consumo de APIs e Telegram Bot API.  
-**Ferramentas:** Git, GitHub, Docker, Docker Compose, Linux e Windows.  
+**Automação:** web scraping, BeautifulSoup4, requests, consumo de APIs e Telegram Bot API.  
+**Ferramentas:** Git, GitHub, Docker, Docker Compose, Linux e Windows.
 
 ---
 
@@ -65,4 +72,3 @@ Inglês avançado — C1
 <a href="mailto:samuelmsantos021@gmail.com">
   <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank">
 </a>
-
