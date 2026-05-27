@@ -116,4 +116,3 @@ Fortaleza, CE
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Samuel%20Mendes-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mendes-dos-santos-3172892b7)
 
-[![GitHub](https://img.shields.io/badge/GitHub-samuelmel-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/samuelmel)
