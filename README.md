@@ -32,7 +32,6 @@ Estudante de Ciência da Computação com foco em **backend, dados, automação,
 **SQL:** JOINs, GROUP BY, filtros, agregações, consultas relacionais e transformação de dados.  
 **Automação:** web scraping, BeautifulSoup4, consumo de APIs e Telegram Bot API.  
 **Ferramentas:** Git, GitHub, Docker, Docker Compose, Linux e Windows.  
-**Noções:** Apache Airflow, documentação técnica, controle de inconsistências e versionamento de código.
 
 ---
 
