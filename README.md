@@ -82,7 +82,6 @@ Atualmente estudo e desenvolvo projetos usando Python, SQL, C#, Flask, Django, S
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=samuelmel&theme=tokyonight)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=samuelmel&theme=tokyonight)
 
 ---
 
