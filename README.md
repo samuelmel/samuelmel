@@ -1,6 +1,6 @@
 # Olá, eu sou o Samuel Mendes 👋
 
-Estudante de **Ciência da Computação** com foco em **Backend, Engenharia de Dados, Automação, Bancos de Dados e Cibersegurança**.
+Estudante de **Ciência da Computação** com foco em **Engenharia de Dados, Automação, Bancos de Dados e Cibersegurança**.
 
 Atualmente desenvolvo projetos envolvendo **Python, SQL, APIs, ETL, web scraping, automação de processos e bancos de dados relacionais**, além de experiência prática com ambientes corporativos.
 
@@ -13,12 +13,6 @@ Atualmente desenvolvo projetos envolvendo **Python, SQL, APIs, ETL, web scraping
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
-
-### Backend & Frameworks
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge\&logo=flask\&logoColor=white)
-![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge\&logo=django\&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge\&logo=streamlit\&logoColor=white)
 
 ### Dados & Bibliotecas
 
@@ -33,12 +27,6 @@ Atualmente desenvolvo projetos envolvendo **Python, SQL, APIs, ETL, web scraping
 ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=for-the-badge\&logo=selenium\&logoColor=white)
 ![Playwright](https://img.shields.io/badge/Playwright-2EAD33?style=for-the-badge\&logo=playwright\&logoColor=white)
 ![BeautifulSoup](https://img.shields.io/badge/BeautifulSoup4-59666C?style=for-the-badge\&logo=python\&logoColor=white)
-
-* Web Scraping
-* Automação de navegadores
-* Consumo e integração com APIs REST
-* Automação de tarefas
-* Extração e processamento de dados
 
 ### Bancos de Dados
 
