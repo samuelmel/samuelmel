@@ -90,6 +90,7 @@ Fortaleza, Brazil
 ## 🌎 Languages
 
 **Portuguese:** Native
+
 **English:** Advanced — C1
 
 ---
