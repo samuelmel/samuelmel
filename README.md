@@ -12,9 +12,7 @@ On my own time I'm studying statistics and data science with Python, and I'm lea
 
 - Economic Risk Monitor: a portfolio project that uses a medallion architecture (bronze, silver and gold layers) for economic data.
 - Crypto Analyzer: a personal project that analyzes cryptocurrencies every day.
-- Job Application Tracker: a Streamlit app, written in Python, to track the jobs I apply to.
-- PartilharTela: a desktop screen-sharing app in the style of Discord, built with Electron, React, LiveKit and Fastify.
-- Finance App: a personal finance app in Flutter and Dart that I built to learn the framework.
+- PartilharTela: a desktop screen-sharing app in the style of Discord, built with Tauris 2, Rust, React, LiveKit and Fastify.
 
 ---
 
