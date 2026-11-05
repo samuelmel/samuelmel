@@ -1,30 +1,24 @@
-# Hi, I'm Samuel Mendes 👋
+# Hi, I'm Samuel Mendes
 
-Computer Science student and **Data Engineering Intern at Unitech (Unimed)**, building toward **Data Science, AI and Machine Learning Engineering / MLOps**.
+I'm a Computer Science student in Fortaleza, Brazil, and a Data Engineering intern at Unitech, the technology hub of Unimed.
 
-I design and ship data pipelines, API integrations and automation, and I'm steadily moving from moving data to making it useful: analytics, statistical modeling and ML systems.
+At work I build data pipelines. That means pulling data from REST APIs, scraping websites when there is no API, and loading it into relational databases. One of my projects there is a tool that translates Pentaho transformations into YAML that runs as Python.
 
----
-
-## 🚀 What I'm doing now
-
-- **Data Engineering @ Unitech / Unimed** — building ETL pipelines, REST API extractions and web-scraping jobs on corporate data, including a tool that translates legacy **Pentaho** transformations into **YAML-driven Python** pipelines.
-- **Studying Data Science & AI** — statistics and probability, data science with Python, and the path toward machine learning and MLOps.
-- **Building portfolio projects** that combine data engineering with analytics and automation (see below).
+On my own time I'm studying statistics and data science with Python, and I'm learning machine learning. My longer-term goal is ML engineering and MLOps, but my work today is data engineering.
 
 ---
 
-## 📌 Selected projects
+## Projects
 
-- **Economic Risk Monitor** — data engineering project using a **medallion architecture** (bronze / silver / gold) to ingest, clean and model economic indicators.
-- **Crypto Analyzer** — daily cryptocurrency analysis pipeline: data collection, processing and reporting.
-- **Job Application Tracker** — Streamlit app in Python to track applications and visualize progress.
-- **PartilharTela** — desktop screen-sharing app (Electron, React, LiveKit, Fastify).
-- **Finance App** — personal finance control app built with Flutter / Dart.
+- Economic Risk Monitor: a portfolio project that uses a medallion architecture (bronze, silver and gold layers) for economic data.
+- Crypto Analyzer: a personal project that analyzes cryptocurrencies every day.
+- Job Application Tracker: a Streamlit app, written in Python, to track the jobs I apply to.
+- PartilharTela: a desktop screen-sharing app in the style of Discord, built with Electron, React, LiveKit and Fastify.
+- Finance App: a personal finance app in Flutter and Dart that I built to learn the framework.
 
 ---
 
-## 🛠️ Tech Stack
+## Tech stack
 
 ### Languages
 
@@ -32,7 +26,7 @@ I design and ship data pipelines, API integrations and automation, and I'm stead
 ![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![C%23](https://img.shields.io/badge/C%23-68217A?style=for-the-badge&logo=csharp&logoColor=white)
 
-### Data Engineering & Data Science
+### Data and libraries
 
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -40,7 +34,7 @@ I design and ship data pipelines, API integrations and automation, and I'm stead
 ![Plotly](https://img.shields.io/badge/Plotly-3F4F75?style=for-the-badge&logo=plotly&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)
 
-### APIs, Scraping & Automation
+### APIs, scraping and automation
 
 ![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
 ![Requests](https://img.shields.io/badge/Requests-3776AB?style=for-the-badge&logo=python&logoColor=white)
@@ -55,7 +49,7 @@ I design and ship data pipelines, API integrations and automation, and I'm stead
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![SQLite](https://img.shields.io/badge/SQLite-003B57?style=for-the-badge&logo=sqlite&logoColor=white)
 
-### DevOps & Tools
+### DevOps and tools
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Docker Compose](https://img.shields.io/badge/Docker%20Compose-2496ED?style=for-the-badge&logo=docker&logoColor=white)
@@ -66,31 +60,13 @@ I design and ship data pipelines, API integrations and automation, and I'm stead
 
 ---
 
-## 💻 Skills
+## What I work with
 
-**Data Engineering:** ETL/ELT, data ingestion, transformation and cleaning, pipeline design, medallion architecture, API integration, dataset organization.
-
-**Data Science & AI (in progress):** statistics and probability, exploratory data analysis, data visualization, and the fundamentals of machine learning, with a goal of reaching ML Engineering and MLOps.
-
-**Python:** automation, API consumption, web scraping, data manipulation, database integration, application development.
-
-**SQL & Databases:** JOINs, aggregations, subqueries, window-style analysis, relational modeling, and hands-on work with Oracle, PostgreSQL, MySQL and SQLite.
-
-**Automation & Web Scraping:** Selenium, Playwright, BeautifulSoup4, Requests, browser automation, REST API integration.
-
-**DevOps:** Docker, Docker Compose, isolated and reproducible environments, containerized applications.
-
-**Version Control:** Git and GitHub, branching, conventional commits.
+I write Python for ETL, API integrations, scraping and automation, and SQL to query and model relational data. I have hands-on experience with Oracle, PostgreSQL, MySQL and SQLite. I run my projects in Docker and Docker Compose, and I use Git and GitHub for version control.
 
 ---
 
-## 🎯 Where I'm heading
-
-Data Engineering → Data Science → **Machine Learning Engineering / MLOps**: reliable data foundations first, then models and the infrastructure to run them in production.
-
----
-
-## 📊 GitHub Statistics
+## GitHub statistics
 
 ![GitHub Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=samuelmel&theme=tokyonight)
 
@@ -98,23 +74,17 @@ Data Engineering → Data Science → **Machine Learning Engineering / MLOps**: 
 
 ---
 
-## 🎓 Education
+## Education
 
-**Bachelor's Degree in Computer Science** — Estácio, Fortaleza, Brazil (2025 — Present)
+Bachelor's degree in Computer Science at Estácio, Fortaleza (2025 to present). I also hold a Cisco Networking Academy certificate in Cyber Threat Management.
 
-**Cisco Networking Academy** — Cyber Threat Management certificate
+## Languages
 
----
-
-## 🌎 Languages
-
-**Portuguese:** Native
-
-**English:** Advanced (C1)
+Portuguese (native) and English (C1).
 
 ---
 
-## 🔗 Socials
+## Contact
 
 <a href="https://www.linkedin.com/in/samuel-mendes-dos-santos-3172892b7" target="_blank">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
