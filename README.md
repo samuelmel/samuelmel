@@ -4,7 +4,7 @@ I'm a Computer Science student in Fortaleza, Brazil, and a Data Engineering inte
 
 At work I build data pipelines. That means pulling data from REST APIs, scraping websites when there is no API, and loading it into relational databases. 
 
-On my own time I'm studying statistics and data science with Python, and I'm learning machine learning. My longer-term goal is ML engineering and MLOps, but my work today is data engineering.
+On my own time I'm studying statistics and data science with Python, and I'm learning machine learning. 
 
 ---
 
