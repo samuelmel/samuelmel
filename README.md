@@ -8,14 +8,6 @@ On my own time I'm studying statistics and data science with Python, and I'm lea
 
 ---
 
-## Projects
-
-- Economic Risk Monitor: a portfolio project that uses a medallion architecture (bronze, silver and gold layers) for economic data.
-- Crypto Analyzer: a personal project that analyzes cryptocurrencies every day.
-- PartilharTela: a desktop screen-sharing app in the style of Discord, built with Tauris 2, Rust, React, LiveKit and Fastify.
-
----
-
 ## Tech stack
 
 ### Languages
